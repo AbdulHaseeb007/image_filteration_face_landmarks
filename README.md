@@ -81,12 +81,5 @@ Contributions are welcome! If you have ideas for improving this project, feel fr
 
 ## 🧑‍💻 Author
 
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **AbdulHaseeb007** - [GitHub Profile](https://github.com/yourusername)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this `README.md` file to better fit your specific needs! 😊
