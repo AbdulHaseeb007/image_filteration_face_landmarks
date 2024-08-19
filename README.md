@@ -24,7 +24,7 @@ Welcome to the **Image Filter by Face Recognition** project! This tool is design
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/face-recognition-filter.git
+    [https://github.com/AbdulHaseeb007/image_filteration_face_landmarks.git]
     ```
    
 2. **Install the required packages**:
@@ -80,5 +80,5 @@ Contributions are welcome! If you have ideas for improving this project, feel fr
 
 ## 🧑‍💻 Author
 
-- **AbdulHaseeb007** - [GitHub Profile](https://github.com/yourusername)
+- **AbdulHaseeb007** - [GitHub Profile](https://github.com/AbdulHaseeb007)
 
