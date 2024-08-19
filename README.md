@@ -15,10 +15,10 @@ Welcome to the **Image Filter by Face Recognition** project! This tool is design
 
 ## 📝 How It Works
 
-1. **Reference Image**: Place one image of the person you want to filter in the `reference_images/` folder.
-2. **Image Directory**: Place all your images (e.g., wedding photos) in the `image_directory/`.
-3. **Run the Script**: The code will scan through all the images in the `image_directory/`, detect faces, extract face landmarks, and compare them to the reference image.
-4. **Result**: All matching images will be saved in the `match_directory/` for easy access.
+1. **Reference Image**: Place one image of the person you want to filter in the `reference_image/` folder.
+2. **Image Directory**: Place all your images (e.g., wedding photos) in the `images/`.
+3. **Run the Script**: The code will scan through all the images in the `images/`, detect faces, extract face landmarks, and compare them to the reference image.
+4. **Result**: All matching images will be saved in the `matched/` for easy access.
 
 ## 🖥️ Setup & Installation
 
@@ -33,8 +33,8 @@ Welcome to the **Image Filter by Face Recognition** project! This tool is design
     ```
 
 3. **Add your images**:
-    - Place the reference image(s) in the `reference_images/` folder.
-    - Place the images to scan in the `image_directory/` folder.
+    - Place the reference image(s) in the `reference_image/` folder.
+    - Place the images to scan in the `images/` folder.
 
 4. **Run the code**:
     ```bash
@@ -46,9 +46,9 @@ Welcome to the **Image Filter by Face Recognition** project! This tool is design
 ```plaintext
 face-recognition-filter/
 ├── reference_images/    # Folder containing reference image(s) of the person
-├── image_directory/     # Folder containing images to be scanned
-├── match_directory/     # Folder where matched images will be saved
-├── filter_images.py     # Main script to run the image filtering
+├── images/     # Folder containing images to be scanned
+├── matched/     # Folder where matched images will be saved
+├── main.py     # Main script to run the image filtering
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
@@ -57,9 +57,9 @@ face-recognition-filter/
 
 Let's say you want to filter out images of Charles from your wedding album:
 
-- **Step 1**: Place one clear image of Charles in the `reference_images/` folder.
-- **Step 2**: Place all your wedding images in the `image_directory/`.
-- **Step 3**: Run the script and find all images containing Charles in the `match_directory/`.
+- **Step 1**: Place one clear image of Charles in the `reference_image/` folder.
+- **Step 2**: Place all your wedding images in the `images/`.
+- **Step 3**: Run the script and find all images containing Charles in the `matched/`.
 
 ## 🌟 Why This Approach?
 
