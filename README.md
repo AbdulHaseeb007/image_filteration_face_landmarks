@@ -1,7 +1,3 @@
-Here's a detailed `README.md` file for your project:
-
----
-
 # 📸 Image Filter by Face Recognition
 
 Welcome to the **Image Filter by Face Recognition** project! This tool is designed to help you automatically filter out images of a specific person from a large directory of images. If you have a directory full of photos—like your wedding pictures—and you want to find all the images that feature a person named Charles, you're in the right place!
@@ -75,7 +71,10 @@ Initially, the challenge was dealing with high-definition images where getting f
 
 This approach ensures accurate detection and efficient processing, even with high-resolution images.
 
-## 🙌 Contributing
+## 🙌 Note
+This code is still in initial stage might skip some images 
+Feel free to add your features 
+Happy coding 
 
 Contributions are welcome! If you have ideas for improving this project, feel free to fork the repository and submit a pull request.
 
